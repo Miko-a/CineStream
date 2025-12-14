@@ -19,5 +19,5 @@ session_destroy();
 // Optionally clear client-side sessionStorage via redirect param (handled on page)
 
 // Redirect to auth page
-header('Location: auth.php');
+header('Location: index.php');
 exit;
