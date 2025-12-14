@@ -159,4 +159,4 @@ Dari kami rata semua pembagiannya + mengerjakan bersama, saling menambahkan & me
 Jadi overall bisa ditulis :
 - Afsal Murtaza |  5025241190 = Frontend & Backend Development, Pembuatan Laporan, Pembuatan Login/Register
 - Farrel Jatmiko Aji | 5025241193 = Frontend & Backend Development, Pembuatan Database, API OMDB
-- Raihan Rasyid Ramadhan | 5025241224 = Frontend Development, API Database
+- Raihan Rasyid Ramadhan | 5025241224 = Frontend Development User & Admin
