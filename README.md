@@ -157,6 +157,6 @@ Rekomendasi Pengembangan Lanjutan :
 Dari kami rata semua pembagiannya + mengerjakan bersama, saling menambahkan & melengkapi 1 sama lain juga.
 
 Jadi overall bisa ditulis :
-- Afsal Murtaza |  5025241190 = Frontend & Backend Development (33.3 %)
-- Farrel Jatmiko Aji | 5025241193 = Frontend & Backend Development (33.3 %)
-- Raihan Rasyid Ramadhan | 5025241224 = Frontend & Backend Development (33.3 %)
+- Afsal Murtaza |  5025241190 = Frontend & Backend Development, Pembuatan Laporan, Pembuatan Login/Register
+- Farrel Jatmiko Aji | 5025241193 = Frontend & Backend Development, Pembuatan Database, API OMDB
+- Raihan Rasyid Ramadhan | 5025241224 = Frontend Development, API Database
