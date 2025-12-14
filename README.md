@@ -150,3 +150,13 @@ Rekomendasi Pengembangan Lanjutan :
 - Pengujian : Integrasikan PHPUnit untuk Unit Testing dan Selenium untuk Automated UI Testing gaman.
 
 - API : Dokumentasi API menggunakan OpenAPI/Swagger untuk kemudahan integrasi di masa depan.
+
+
+# Pembagian Jobdesc
+
+Dari kami rata semua pembagiannya, saling menambahkan & melengkapi 1 sama lain juga.
+
+Jadi overall bisa ditulis :
+- Afsal Murtaza |  5025241190 = Frontend & Backend Development (33.3 %)
+- Farrel Jatmiko Aji | 5025241193 = Frontend & Backend Development (33.3 %)
+- Raihan Rasyid Ramadhan | 5025241224 = Frontend & Backend Development (33.3 %)
