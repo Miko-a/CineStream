@@ -1,6 +1,5 @@
 <?php
 // Landing page for CineStream frontend
-
 // Try to include header template if available
 @include __DIR__ . '/templates/header.php';
 
