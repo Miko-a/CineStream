@@ -154,7 +154,7 @@ Rekomendasi Pengembangan Lanjutan :
 
 # Pembagian Jobdesc
 
-Dari kami rata semua pembagiannya, saling menambahkan & melengkapi 1 sama lain juga.
+Dari kami rata semua pembagiannya + mengerjakan bersama, saling menambahkan & melengkapi 1 sama lain juga.
 
 Jadi overall bisa ditulis :
 - Afsal Murtaza |  5025241190 = Frontend & Backend Development (33.3 %)
