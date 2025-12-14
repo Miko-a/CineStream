@@ -3,8 +3,8 @@ LAPORAN FP PWEB B - CineStream
 | Name           | NRP        |
 | ---            | ---        |
 | Afsal Murtaza |  5025241190  |
-| Nama | 502524 |
-| Nama | 502524 |
+| Farrel Jatmiko Aji | 5025241193 |
+| Raihan Rasyid Ramadhan | 5025241224 |
 
 # Frontend & Backend Development
 
